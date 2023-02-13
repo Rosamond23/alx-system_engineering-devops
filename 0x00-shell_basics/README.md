@@ -6,4 +6,6 @@ A script that changes the working directory to the users home directoryTask 3 Th
 Display current working directory in a long format
 Task 4 Hidden files
 Display current directory contents including hidden files
-
+Task 5 I love numbers
+Display current directory contents-long format user and groupIDs hidden files(.)
+ 
