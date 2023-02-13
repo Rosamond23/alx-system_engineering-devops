@@ -1,3 +1,2 @@
-Task 0
-Write a script that prints "Hello,world"
+# 0*02 shell, I/O redirection and filters
 
